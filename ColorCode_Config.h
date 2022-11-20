@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define  MAX_COLORPAIR_NAME_CHARS 16
-#define TOTAL_PAIR    25
+#define TOTAL_COLORCODE_PAIR   25
 
 extern int numberOfMajorColors;
 extern int numberOfMinorColors;
